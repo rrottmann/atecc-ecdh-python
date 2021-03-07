@@ -1,0 +1,3 @@
+wheel
+cryptography
+cryptoauthlib
